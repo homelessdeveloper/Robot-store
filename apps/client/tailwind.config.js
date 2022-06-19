@@ -29,6 +29,14 @@ module.exports = {
         },
         dark: {},
       },
+      fontFamily: {
+        'open-sans': ['Open Sans', 'sans-serif'],
+        yanone: ['Yanone Kaffeesatz', 'sans-serif'],
+      },
+      fontSize: {
+        '1xl': '1.375rem',
+        '4.5xl': '2.625rem',
+      },
     },
   },
   plugins: [],
